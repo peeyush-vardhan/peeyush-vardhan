@@ -2,9 +2,9 @@
 
 ![Hero banner](./assets/hero-banner.png)
 
-Senior Product Manager building AI products, analytics systems, and B2B SaaS experiences.
+Lead Product Manager building AI products, data coding platforms, analytics systems, and B2B SaaS experiences.
 
-## Hero Introduction
+## Introduction
 
 I work on products that turn complex data, AI capabilities, and cross-functional execution into workflows customers can actually use.
 
