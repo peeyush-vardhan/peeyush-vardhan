@@ -2,105 +2,130 @@
 
 ![Hero banner](./assets/hero-banner.png)
 
-Senior Product Manager focused on AI, analytics, and B2B SaaS platforms.
-
-I work at the intersection of product strategy, customer insight, and execution. This profile repository is designed to show how I think, what I build, and the product artifacts that reflect my approach to leadership and delivery.
+Senior Product Manager building AI products, analytics systems, and B2B SaaS experiences.
 
 ## Hero Introduction
 
-I build products by connecting customer problems, business goals, and technical possibilities into a clear product direction.
+I work on products that turn complex data, AI capabilities, and cross-functional execution into workflows customers can actually use.
 
-- Strategic product leadership across AI, analytics, and B2B SaaS
-- Strong focus on discovery, prioritization, execution, and measurable outcomes
-- Product thinking grounded in customer value, operational clarity, and cross-functional alignment
+My focus sits at the intersection of:
 
-## Career Summary
+- AI product leadership
+- Analytics systems and decision infrastructure
+- B2B SaaS workflow design
+- Product strategy, launch, and operational clarity
 
-I am a Senior Product Manager with experience shaping products for complex business environments. My work centers on identifying meaningful problems, defining product direction, collaborating with design and engineering, and turning ambiguity into decisions teams can execute with confidence.
+This profile is structured for product leaders, founders, operators, and collaborators who want to see how I think about product direction, product systems, and proof of work.
 
-Areas of focus:
+## What I Build
 
-- AI-enabled product experiences
-- Analytics and decision-support platforms
-- B2B SaaS workflows and platform thinking
-- Product strategy, roadmapping, and stakeholder alignment
-- Product discovery, validation, and execution
+I build products in categories where product judgment matters as much as feature delivery:
 
-For a deeper view of my thinking, see [leadership principles](./content/leadership-principles.md) and [working links](./content/links.md).
+- AI-assisted product experiences that reduce friction and improve decision quality
+- Analytics platforms that make governed data more usable across teams
+- Internal and external product systems that balance speed, trust, and scale
+- B2B workflows that connect customer value, product strategy, and execution
 
-## Featured Products
+I am especially interested in products where the hard part is not just building the feature, but designing the system around adoption, clarity, and measurable business impact.
 
-Selected products, platforms, and initiatives are organized in [featured-products.md](./content/featured-products.md).
+## Featured Product Portfolio
 
-| Product | What It Solves | My Role | Proof of Work |
-| --- | --- | --- | --- |
-| Product Name 01 | `[Placeholder: customer problem statement]` | `[Placeholder: your role and scope]` | `[Case study](./content/featured-products.md#product-1)` |
-| Product Name 02 | `[Placeholder: customer problem statement]` | `[Placeholder: your role and scope]` | `[Case study](./content/featured-products.md#product-2)` |
-| Product Name 03 | `[Placeholder: customer problem statement]` | `[Placeholder: your role and scope]` | `[Case study](./content/featured-products.md#product-3)` |
+### ThoughtSpot
 
-## Product Artifacts
+Work in this area reflects a product focus on AI-ready analytics infrastructure, cost-aware system design, and analyst workflows that scale from ad hoc exploration to production use.
 
-This repository is structured to make proof of work easy to review. Add artifacts that show how you think and how products moved from concept to execution.
+- `SpotCache` addresses a core analytics systems challenge: scaling AI-driven and agentic analytics without unpredictable cloud data warehouse spend. ThoughtSpot describes it as a caching capability that helps teams control warehouse costs while supporting AI-driven analytics with the right balance of cached and live data.
+- `Analyst Studio` extends that system by bringing SQL, Python, and visual analysis into a unified workspace for preparing and managing AI-ready data, with the goal of helping analysts move from report generation to broader business impact.
+- Together, these launches represent the kind of product work I care about most: AI readiness, analytics performance, governed flexibility, and infrastructure choices that improve end-user value.
 
-- Product briefs and strategy documents
-- Discovery notes and research syntheses
-- Roadmaps and prioritization frameworks
-- Metrics definitions and KPI trees
-- Launch plans, demos, and retrospective notes
+Public product examples:
 
-Recommended artifact destinations:
+- [ThoughtSpot demo](https://www.loom.com/share/49809a4453d54884bb4fb365096c0bc4)
+- [SpotCache launch](https://www.thoughtspot.com/blog/spotcache)
+- [Analyst Studio launch](https://www.thoughtspot.com/blog/reimagining-data-prep-with-analyst-studio)
 
-- Product snapshots and visuals: [`assets/product-images/`](./assets/product-images/)
-- Product narratives: [`content/featured-products.md`](./content/featured-products.md)
-- Reusable write-up formats: [`templates/`](./templates/)
+### MoEngage
 
-## Leadership Principles
+This portfolio area highlights AI-assisted marketing products that help teams move faster from insight to action, especially in segmentation, audience targeting, and proactive intelligence.
 
-My leadership approach is grounded in clarity, customer understanding, disciplined prioritization, and strong cross-functional collaboration.
+- `Merlin AI Segment Assist` is positioned by MoEngage as a natural-language segmentation experience that lets marketers create precise customer segments in seconds, then move directly into analysis, export, or campaign execution from one interface.
+- `Proactive Assistant` shows a complementary systems mindset: an AI-powered assistant that proactively surfaces actionable insights, prioritizes the highest-impact opportunities, and lets marketers act on them with minimal friction.
+- The throughline here is product design for leverage: reducing complexity, shortening time-to-action, and making sophisticated capabilities accessible without heavy workflow overhead.
 
-Highlights:
+Public product examples:
 
-- Start with the problem, not the feature
-- Build shared context before chasing speed
-- Align teams around outcomes, not output
-- Make decisions visible and reversible where possible
-- Use data to sharpen judgment, not replace it
+- [MoEngage demo 1](https://www.loom.com/share/5af3494e1d404fe9b5be26bd31d8f082)
+- [MoEngage demo 2](https://www.loom.com/share/987c01f8c3dd49a9ba7611781cf72059)
+- [MoEngage demo 3](https://www.loom.com/share/814502a52bd640d69f27ed74a76ea015)
+- [LinkedIn launch post](https://www.linkedin.com/posts/peeyush-vardhan_experience-lightning-fast-user-path-analysis-activity-7158825936971296768-pp2s)
+- [Merlin AI Segment Assist](https://www.moengage.com/blog/merlin-ai-segment-assist-a-revolutionary-approach-to-audience-targeting/)
+- [Proactive Assistant](https://help.moengage.com/hc/en-us/articles/6371296122644-Proactive-Assistant)
 
-Read the full version in [leadership-principles.md](./content/leadership-principles.md).
+### Conde Nast
 
-## Writing and Demos
+This work reflects an analytics product mindset centered on governed self-serve systems, embedded data experiences, and organization-wide decision velocity.
 
-This section is reserved for public writing, talks, product demos, and explainers.
+- Mode’s public Condé Nast case study describes a shift from reactive dashboard delivery toward data products built for wider internal adoption, with Dash becoming a central analytics platform and the Mode Portal embedded into that environment.
+- The operating challenge was balancing governance with speed-to-decision for data-savvy teams. The resulting system gave teams a more accessible place to start analysis and share trusted outputs without depending on the full reporting process for every question.
+- The published case study reports `80%` lower time-to-insight, `50%` more daily data use, and `3x` growth in the number of reports viewed, which is the kind of durable product impact I look for in analytics platforms.
 
-- Writing: `[Placeholder: article or blog URL]`
-- Demo video: `[Placeholder: Loom or YouTube URL]`
-- Product walkthrough: `[Placeholder: portfolio or case study URL]`
-- Presentation: `[Placeholder: slides URL]`
+Public product examples:
 
-You can also centralize external references in [links.md](./content/links.md).
+- [Mode case study: Condé Nast transforms data culture globally](https://mode.com/conde-nast-transforms-data-culture)
+- [Condé Nast data targeting](https://advertising.condenast.com/solutions/data-targeting)
+- [Condé Nast data visualization](https://datavisualization.condenast.com)
+
+## AI Product Experiments
+
+I am interested in AI products that combine reasoning support, workflow acceleration, and usable operational design, not just prompt wrappers.
+
+Current experimentation areas:
+
+- AI copilots for decision support and product operations
+- Natural-language interfaces for analytics and segmentation
+- Insight systems that move from recommendation to action
+- Product patterns for human-in-the-loop AI workflows
+
+Artifacts to add:
+
+- `[Placeholder: experiment repo or demo link]`
+- `[Placeholder: prototype walkthrough]`
+- `[Placeholder: AI product note or teardown]`
+
+## Product Thinking Library
+
+This repository also holds the operating artifacts behind how I think about product leadership, product systems, and execution.
+
+- [Leadership principles](./content/leadership-principles.md)
+- [Featured products working page](./content/featured-products.md)
+- [Links library](./content/links.md)
+- [Product case study template](./templates/product-case-study-template.md)
+- [Product project template](./templates/product-project-template.md)
+
+Themes I come back to often:
+
+- Product strategy under constraint
+- AI product design grounded in real workflow value
+- Analytics systems that balance trust, speed, and adoption
+- Cross-functional execution that turns ambiguity into decisions
+
+## Writing & Launches
+
+Selected public writing, launches, and demos:
+
+- [ThoughtSpot: SpotCache](https://www.thoughtspot.com/blog/spotcache)
+- [ThoughtSpot: Analyst Studio](https://www.thoughtspot.com/blog/reimagining-data-prep-with-analyst-studio)
+- [MoEngage: Merlin AI Segment Assist](https://www.moengage.com/blog/merlin-ai-segment-assist-a-revolutionary-approach-to-audience-targeting/)
+- [MoEngage: Proactive Assistant documentation](https://help.moengage.com/hc/en-us/articles/6371296122644-Proactive-Assistant)
+- [LinkedIn launch post](https://www.linkedin.com/posts/peeyush-vardhan_experience-lightning-fast-user-path-analysis-activity-7158825936971296768-pp2s)
+- [ThoughtSpot demo](https://www.loom.com/share/49809a4453d54884bb4fb365096c0bc4)
+- [MoEngage demo 1](https://www.loom.com/share/5af3494e1d404fe9b5be26bd31d8f082)
+- [MoEngage demo 2](https://www.loom.com/share/987c01f8c3dd49a9ba7611781cf72059)
+- [MoEngage demo 3](https://www.loom.com/share/814502a52bd640d69f27ed74a76ea015)
 
 ## Contact
 
-- LinkedIn: `[Placeholder: LinkedIn URL]`
+- GitHub: [@peeyush-vardhan](https://github.com/peeyush-vardhan)
+- LinkedIn: [Peeyush Vardhan](https://www.linkedin.com/in/peeyush-vardhan/)
 - Email: `[Placeholder: professional email]`
 - Portfolio: `[Placeholder: website URL]`
-- GitHub: [@peeyush-vardhan](https://github.com/peeyush-vardhan)
-
----
-
-### Repository Structure
-
-```text
-.
-├── README.md
-├── assets
-│   ├── hero-banner.png
-│   └── product-images
-├── content
-│   ├── featured-products.md
-│   ├── leadership-principles.md
-│   └── links.md
-└── templates
-    ├── product-case-study-template.md
-    └── product-project-template.md
-```

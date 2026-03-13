@@ -1,115 +1,75 @@
 # Featured Products
 
-Use this page to document the products, initiatives, or platforms you want visitors to remember. Keep each entry concise in the README, and use this file for the richer narrative.
+This page expands on the public product examples referenced in the main profile README. It is intentionally written to show product scope, systems thinking, and evidence of work without overstating outcomes that are not publicly documented.
 
-## Product 1
+## ThoughtSpot
 
-### Overview
+### Focus Area
 
-- Product name: `[Placeholder]`
-- Category: `[AI / Analytics / B2B SaaS / Platform / Internal Tool / Other]`
-- Stage: `[Placeholder: 0 to 1 / growth / optimization / transformation]`
-- Audience: `[Placeholder: target users or customers]`
+AI-ready analytics infrastructure, governed flexibility, and analyst workflows.
 
-### Problem
+### Product Themes
 
-`[Placeholder: describe the core customer or business problem this product addresses.]`
+- Cost-aware analytics architecture
+- AI and agentic analytics readiness
+- Data prep systems for analyst productivity
+- Bridging technical depth with business usability
 
-### Product Strategy
+### Public Evidence
 
-`[Placeholder: summarize the product thesis, strategic bet, or business rationale.]`
+- Demo: https://www.loom.com/share/49809a4453d54884bb4fb365096c0bc4
+- Launch: https://www.thoughtspot.com/blog/spotcache
+- Launch: https://www.thoughtspot.com/blog/reimagining-data-prep-with-analyst-studio
 
-### My Role
+### Notes
 
-`[Placeholder: describe your ownership, team scope, and decision-making responsibilities.]`
+ThoughtSpot’s public materials position `SpotCache` as a way to support AI-driven analytics while avoiding unnecessary cloud warehouse cost exposure, and `Analyst Studio` as a workspace for using SQL, Python, and visual analysis to prepare and manage AI-ready data.
 
-### What Was Built
+## MoEngage
 
-`[Placeholder: describe the workflow, feature set, or platform capability.]`
+### Focus Area
 
-### Evidence and Artifacts
+AI-assisted marketing workflows, segmentation, and proactive insight systems.
 
-- Demo: `[Placeholder URL]`
-- PRD or strategy doc: `[Placeholder URL]`
-- Screenshots: `[Placeholder URL or local asset path]`
-- Metrics snapshot: `[Placeholder URL]`
+### Product Themes
 
-### Outcome
+- Natural-language interaction for complex workflows
+- Faster path from insight to campaign action
+- AI support for segmentation and targeting
+- Embedded intelligence for marketing teams
 
-`[Placeholder: add factual outcomes only. Avoid claims you cannot verify.]`
+### Public Evidence
 
----
+- Demo: https://www.loom.com/share/5af3494e1d404fe9b5be26bd31d8f082
+- Demo: https://www.loom.com/share/987c01f8c3dd49a9ba7611781cf72059
+- Demo: https://www.loom.com/share/814502a52bd640d69f27ed74a76ea015
+- Launch post: https://www.linkedin.com/posts/peeyush-vardhan_experience-lightning-fast-user-path-analysis-activity-7158825936971296768-pp2s
+- Launch: https://www.moengage.com/blog/merlin-ai-segment-assist-a-revolutionary-approach-to-audience-targeting/
+- Documentation: https://help.moengage.com/hc/en-us/articles/6371296122644-Proactive-Assistant
 
-## Product 2
+### Notes
 
-### Overview
+MoEngage’s public materials describe `Merlin AI Segment Assist` as a natural-language way to create precise customer segments in seconds, and `Proactive Assistant` as an AI-powered assistant that surfaces high-priority insights teams can act on quickly.
 
-- Product name: `[Placeholder]`
-- Category: `[AI / Analytics / B2B SaaS / Platform / Internal Tool / Other]`
-- Stage: `[Placeholder]`
-- Audience: `[Placeholder]`
+## Conde Nast
 
-### Problem
+### Focus Area
 
-`[Placeholder]`
+Analytics adoption, governed self-serve data products, and embedded insight experiences.
 
-### Product Strategy
+### Product Themes
 
-`[Placeholder]`
+- Data access at organizational scale
+- Embedded analytics for daily workflows
+- Self-serve reporting with governance
+- Faster time-to-insight across business teams
 
-### My Role
+### Public Evidence
 
-`[Placeholder]`
+- Case study: https://mode.com/conde-nast-transforms-data-culture
+- Product surface: https://advertising.condenast.com/solutions/data-targeting
+- Product surface: https://datavisualization.condenast.com
 
-### What Was Built
+### Notes
 
-`[Placeholder]`
-
-### Evidence and Artifacts
-
-- Demo: `[Placeholder URL]`
-- PRD or strategy doc: `[Placeholder URL]`
-- Screenshots: `[Placeholder URL or local asset path]`
-- Metrics snapshot: `[Placeholder URL]`
-
-### Outcome
-
-`[Placeholder: factual, source-backed outcome only]`
-
----
-
-## Product 3
-
-### Overview
-
-- Product name: `[Placeholder]`
-- Category: `[Placeholder]`
-- Stage: `[Placeholder]`
-- Audience: `[Placeholder]`
-
-### Problem
-
-`[Placeholder]`
-
-### Product Strategy
-
-`[Placeholder]`
-
-### My Role
-
-`[Placeholder]`
-
-### What Was Built
-
-`[Placeholder]`
-
-### Evidence and Artifacts
-
-- Demo: `[Placeholder URL]`
-- PRD or strategy doc: `[Placeholder URL]`
-- Screenshots: `[Placeholder URL or local asset path]`
-- Metrics snapshot: `[Placeholder URL]`
-
-### Outcome
-
-`[Placeholder: factual, source-backed outcome only]`
+Mode’s published Condé Nast case study describes a transformation from reactive dashboard delivery to broader use of data products, with reported improvements including lower time-to-insight, higher daily data use, and more report consumption across the organization.
